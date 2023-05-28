@@ -5,39 +5,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <style>
-      html {
-  height: 100%;
-  box-sizing: border-box;
-}
-Body{
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 0px;
-    padding-left: 80px;
-}
-.footer {
-  position: absolute;
-  right: 0;
-  bottom: 100;
-  left: 0;
-  padding: 1rem;
-  background-color: #efefef;
-  text-align: center;
-}
-.image{
-    padding-top: 5px;
-    padding-right: 10px;
-    padding-bottom: 10px;
-    padding-left: 5px;
-}
-.heading {
-  font-size: 55px;
-}
-#icon{
-  font-size:20px;
-}
-    </style>
 </head>
 <body>
     <h1 style="text-align: center;">Cristiano Ronaldo</h1>
